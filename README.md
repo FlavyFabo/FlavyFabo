@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlavyFabo
 - 👀 I’m interested in becoming proficient in Java
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, C++, Dart, Javascript
 - 💞️ I’m looking to collaborate on any projects that could improve any computer skills
 - 📫 How to reach me - gmail: fabiancv606@gmail.com
 
