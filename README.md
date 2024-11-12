@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FlavyFabo
-- 🌱 I’m currently learning Java, C++, Dart, Javascript
 - 💞️ I’m looking to collaborate on any projects that could improve any programming skills
 - 📫 How to reach me - gmail: fabiancv606@gmail.com
 
